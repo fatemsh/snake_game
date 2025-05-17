@@ -5,4 +5,4 @@
 4 - run main.py
 5 - good game :)
 ```
-![IMG_4940]([https://github.com/bitsnakee/Proxy/assets/158815686/0dcd1b2e-142c-43ab-b1b9-b50e591deef2](https://github.com/fatemsh/snake_game/blob/main/Untitled.png))
+![IMG_4940](https://github.com/fatemsh/snake_game/blob/main/Untitled.png)
